@@ -13,7 +13,7 @@ This project is a simple yet powerful pipeline for binary sentiment classificati
   - `evaluate.py` – runs evaluation and plots results.
   - `attention_analysis.py` – lets you visualize self-attention weights.
 - Interactive Jupyter notebooks in the `notebooks/` folder to help you dive deeper.
-- Pretrained model and tokenizer are saved in `model_save/`, and evaluation results in `results/`.
+- Evaluation results in `results/`.
 
 ## Getting Started
 
